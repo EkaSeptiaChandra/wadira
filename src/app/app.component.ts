@@ -20,6 +20,11 @@ export class AppComponent {
       title: 'Tentang Kami',
       url: '/about-us',
       icon: 'people'
+    },
+    {
+      title: 'Kontak Kami',
+      url: '/kontak-kami',
+      icon: 'call'
     }
   ];
 
