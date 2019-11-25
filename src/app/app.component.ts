@@ -22,6 +22,21 @@ export class AppComponent {
       icon: 'people'
     },
     {
+      title: 'Visi Dan Misi',
+      url: '/visi-misi',
+      icon: 'medal'
+    },
+    {
+      title: 'Core Values',
+      url: '/core-values',
+      icon: 'aperture'
+    },
+    {
+      title: 'Strategi Bisnis',
+      url: '/strategi-bisnis',
+      icon: 'briefcase'
+    },
+    {
       title: 'Kontak Kami',
       url: '/kontak-kami',
       icon: 'call'
