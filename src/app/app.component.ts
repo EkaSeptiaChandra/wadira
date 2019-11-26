@@ -42,6 +42,11 @@ export class AppComponent {
       icon: 'ribbon'
     },
     {
+      title: 'Produk Dan Layanan',
+      url: '/produk-layanan',
+      icon: 'pie'
+    },
+    {
       title: 'Kontak Kami',
       url: '/kontak-kami',
       icon: 'call'
