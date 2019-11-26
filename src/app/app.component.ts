@@ -37,6 +37,11 @@ export class AppComponent {
       icon: 'briefcase'
     },
     {
+      title: 'Legalitas',
+      url: '/legalitas',
+      icon: 'ribbon'
+    },
+    {
       title: 'Kontak Kami',
       url: '/kontak-kami',
       icon: 'call'
